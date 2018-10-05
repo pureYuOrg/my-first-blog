@@ -5,4 +5,5 @@ myvenv
 myenv
 db.sqlite3
 /static
+mydjangosandbox
 .DS_Store
